@@ -1,2 +1,2 @@
 # Sales-Dashboard-Meriskill
-![dashboard](Sales Dashboard.jpg)
+![dashboard](Sales%20Dashboard.jpg)
