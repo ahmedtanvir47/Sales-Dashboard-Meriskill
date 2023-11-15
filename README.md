@@ -1,2 +1,2 @@
 # Sales-Dashboard-Meriskill
-![](Sales Dashboard.png)
+![](Sales Dashboard.jpg)
